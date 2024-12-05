@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react";
 import Table, { Column } from "../components/Table";
 import Pagination from "../components/Pagination";
-import CustomDropdown from "../components/StatusDropdown";
 import Search from "../components/Search";
 import LocationDropdown from "../components/LocationDropdown";
 import StatusDropdown from "../components/StatusDropdown";
